@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/banner.jpg" alt="Berlin skyline at dusk seen from a workbench with notebooks, charts and a laptop" width="100%">
+</p>
+
 ### Hi, I'm Henri 👋
 
 Business student in Berlin (International Business Administration, BSP Business & Law School).
