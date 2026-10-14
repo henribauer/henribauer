@@ -27,4 +27,9 @@ work with documents.
 #### How I work
 
 Spec first, then code. I lean on AI coding agents and keep the decisions, tests and
-documentation in my own hands.
+documentation in my own hands. One agent builds, another reviews, and I approve what ships. The
+full workflow, coding and design, and why each rule exists:
+[**how-i-build**](https://github.com/henribauer/how-i-build).
+
+I also experiment with local models on my own PC (RTX 4090), to see what runs offline and without
+usage limits.
