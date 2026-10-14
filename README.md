@@ -32,8 +32,8 @@ Obsidian, and a few private tools.
 
 I build with two AI agents: one writes the code, the other reviews it, and I approve what ships.
 
-- **Questions before code.** Every feature starts with the agent questioning me on intent and risk,
-  then a spec I sign off on.
+- **Ideas, then questions, then code.** A new feature starts with my own ideas on paper, widened by
+  the agent. Then it questions me on intent and risk, and I sign off on a spec.
 - **The builder never reviews its own work.** Claude Code builds and Codex reviews, or the other
   way round when usage runs out.
 - **Design gets more structure, not less.** Style words get defined before anything is built,
